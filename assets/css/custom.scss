@@ -1,0 +1,17 @@
+---
+---
+@import "just-the-docs";
+
+// AI Centre Style Overrides
+$link-color: #005eb8;
+$sidebar-color: #ffffff;
+$search-background-color: #f0f4f8;
+
+.btn-primary {
+  background-color: #005eb8;
+  border-radius: 4px;
+}
+
+.side-bar {
+  border-right: 1px solid #e1e4e8;
+}
